@@ -1,4 +1,4 @@
-# fmendel-spc
+# spc-fmendel-plugin
 
 Consolidated package repo for the Mendel SPC app. Shared templates/assets live here, while platform-specific binaries are packaged into release zips.
 
