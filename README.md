@@ -28,11 +28,11 @@ Each zip has the exact layout SPC expects (root contains `spc.json`, `mendel`, a
 Use the release asset URL that matches your platform:
 
 ```bash
-./spc install https://github.com/whbrewer/fmendel-spc/releases/download/vX.Y.Z/fmendel-spc-linux-x86_64.zip
+./spc install https://github.com/whbrewer/spc-fmendel-plugin/releases/download/v2.0/fmendel-spc-linux-x86_64.zip
 ```
 
 ```bash
-./spc install https://github.com/whbrewer/fmendel-spc/releases/download/vX.Y.Z/fmendel-spc-darwin-x86_64.zip
+./spc install https://github.com/whbrewer/spc-fmendel-plugin/releases/download/v2.0/fmendel-spc-darwin-x86_64.zip
 ```
 
 ## Notes
